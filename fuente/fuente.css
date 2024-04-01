@@ -1,0 +1,15 @@
+@font-face {
+  font-family: alata;
+  src: url(/fuente/alata-regular.ttf);
+}
+
+h1 {
+  font-family: alata;
+}
+
+p {
+  font-family: alata;
+  font-size: 30px;
+  padding: 10px;
+}
+
